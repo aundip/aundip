@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aundip&theme=matrix&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=aundip&theme=matrix&mode=dark" width="100%" alt="Profile banner for @aundip" />
+  </picture>
+</p>
+
 <h1 align="center">Koundinya</h1>
 
 <p align="center">
