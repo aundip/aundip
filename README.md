@@ -9,7 +9,7 @@
 
 <p align="center">
   <b>Analog &amp; mixed-signal IC design</b> · Sky130 · ngspice · RISC-V<br/>
-  <sub>EEE undergrad, BITS Pilani — Goa</sub>
+  <sub>EEE undergrad, University at Buffalo</sub>
 </p>
 
 <p align="center">
