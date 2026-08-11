@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aundip&theme=matrix&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=aundip&theme=matrix&mode=dark" width="100%" alt="Profile banner for @aundip" />
+    <source media="(prefers-color-scheme: light)" srcset="hero-light.svg" />
+    <img src="hero-dark.svg" width="100%" alt="Koundinya — analog and mixed-signal IC design: Sky130, ngspice, delta-sigma, RISC-V RTL" />
   </picture>
 </p>
 
