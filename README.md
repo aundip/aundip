@@ -5,7 +5,9 @@
   </picture>
 </p>
 
-<h1 align="center">Koundinya</h1>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=aundip&theme=matrix&label=Koundinya" width="100%" alt="Koundinya" />
+</p>
 
 <p align="center">
   <b>Analog &amp; mixed-signal IC design</b> · Sky130 · ngspice · RISC-V<br/>
