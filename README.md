@@ -65,6 +65,15 @@ Post ........ Python, NumPy, matplotlib RTL ......... SystemVerilog, CVA6
   <img src="https://github-readme-stats.vercel.app/api?username=aundip&show_icons=true&hide_border=true&hide_title=true&theme=transparent" alt="GitHub stats for aundip" />
 </p>
 
+## Duty cycle
+
+The contribution graph, played back as a shooter. Regenerated nightly from this
+repository's own activity.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aundip/aundip/output/space-shooter.gif" width="100%" alt="Animated contribution graph for aundip" />
+</p>
+
 ## Current focus
 
 - **Analog design** — closing the loop on the Miller OTA: real devices into the corner harness.
