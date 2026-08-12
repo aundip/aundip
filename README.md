@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="hero-light.svg" />
-    <img src="hero-dark.svg" width="100%" alt="Koundinya — analog and mixed-signal IC design: Sky130, ngspice, delta-sigma, RISC-V RTL" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aundip/aundip/main/hero-light.svg" />
+    <img src="https://raw.githubusercontent.com/aundip/aundip/main/hero-dark.svg" width="100%" alt="Koundinya — analog and mixed-signal IC design: Sky130, ngspice, delta-sigma, RISC-V RTL" />
   </picture>
 </p>
 
